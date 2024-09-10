@@ -31,18 +31,18 @@ This is a command-line application that calculates and displays league rankings.
 
 3. **Compile the Code**
 
-   Use your IDE to compile the Java code, or use the following command from the terminal:
+   In your terminal (or command prompt), navigate to the folder where your LeagueRanking.java file is located and run the following command to compile it:
 
     ```bash
-    javac src/LeagueRanking.java
+    javac LeagueRanking.java
     ```
 
 4. **Run the Application**
 
-   To run the application, use the following command:
+   After compiling, you need to run the program. To run it, use the following command:
 
     ```bash
-    java -cp src LeagueRanking
+    java LeagueRanking
     ```
 
 5. **Provide Input**
